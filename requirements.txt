@@ -1,0 +1,7 @@
+numpy==1.26.4
+opencv-python==4.13.0.92
+torch==2.10.0+cpu
+torchaudio==2.10.0+cpu
+torchvision==0.25.0+cpu
+PyQt6==6.10.2
+PyQt6-tools

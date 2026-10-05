@@ -1,0 +1,7 @@
+{
+    "camera_ip": "192.168.1.108",
+    "auto_start": false,
+    "selected_camera": "0",
+    "pixels_per_cm": 4.82258064516129,
+    "nominal_width_cm": 62.0
+}
